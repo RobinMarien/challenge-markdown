@@ -30,4 +30,4 @@ Can't think of anything right now, so as soon as I come up with something, I'll 
 #### TL;DR
 Coming soon!
 
-[<< previous](https://github.com/JosephLindzius/challenge-markdown/blob/master/Description.md) | Robin Mariën | [next >>]()
+[<< previous](https://github.com/JosephLindzius/challenge-markdown/blob/master/Description.md) | Robin Mariën | [next >>](https://github.com/bermarte/challenge-repository-name/blob/master/whoami.md)
