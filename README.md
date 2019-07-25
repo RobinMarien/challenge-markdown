@@ -27,7 +27,7 @@ you need some help! If it's a subject I already know about, I'll do my best to e
 
 Can't think of anything right now, so as soon as I come up with something, I'll add it here!
 
-### TL;DR
+#### TL;DR
 Coming soon!
 
-[<< previous]() | Robin Mariën | [next >>]()
+[<< previous](https://github.com/JosephLindzius/challenge-markdown/blob/master/Description.md) | Robin Mariën | [next >>]()
