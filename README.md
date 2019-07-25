@@ -8,7 +8,7 @@
 
 | Birthday      | Gender        | Favorite Color | Favorite Food | Pineapple on Pizza? |
 |:-------------:|:-------------:|:--------------:|:-------------:|:-------------------:|
-| 30/04/1989    | Male          | Red            | Noodles       | &#9989;             |
+| 30/04/1989    | Male          | Red            | Noodles       | &#9745;             |
 
 
 ## Hobbies
