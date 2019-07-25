@@ -13,11 +13,11 @@
 
 ## Hobbies
 
-+Guitar
-+Video Games
-..*Destiny 2
-..*The Witcher 3
-+Skateboarding
++ Guitar
++ Video Games
+..* Destiny 2
+..* The Witcher 3
++ Skateboarding
 
 ## You can always count on me when
 
