@@ -8,15 +8,15 @@
 
 | Birthday      | Gender        | Favorite Color | Favorite Food | Pineapple on Pizza? |
 |:-------------:|:-------------:|:--------------:|:-------------:|:-------------------:|
-| 30/04/1989    | Male          | Red            | Noodles       | [checkbox:checked]  |
+| 30/04/1989    | Male          | Red            | Noodles       | - [x]               |
 
 
 ## Hobbies
 
 + Guitar
 + Video Games
-..* Destiny 2
-..* The Witcher 3
+  * Destiny 2
+  * The Witcher 3
 + Skateboarding
 
 ## You can always count on me when
